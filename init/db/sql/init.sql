@@ -1,3 +1,0 @@
-CREATE DATABASE testing_db;
-
-CREATE DATABASE app_db;
